@@ -2,6 +2,10 @@
 
 Stewart Platform Related Code，such as forward kinematics, inverse kinematics, inverse dynamics, workspace etc.
 
+## Run code
+
+run example_*.m file.
+
 ## Workspace pictures
 
 #### Fixed Orentation - Location Workspace.
